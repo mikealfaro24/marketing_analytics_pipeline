@@ -44,7 +44,7 @@ The project uses a **star schema analytical model** built on top of a Databricks
 
 ### Entity Relationship Diagram
 
-![ERD]("https://github.com/mikealfaro24/marketing_analytics_pipeline/blob/f88fdb7b11be68157daeac356a8ae46278bfd456/docs/shoply_ERD.png")
+![ERD](https://github.com/mikealfaro24/marketing_analytics_pipeline/blob/11a5fe627c868e96b73087e6a35ebafec5233567/docs/shoply_ERD.png)
 
 ---
 
@@ -64,7 +64,7 @@ Key takeaways:
 
 ### Dashboard Snapshot
 
-![Dashboard]("https://github.com/mikealfaro24/marketing_analytics_pipeline/blob/f88fdb7b11be68157daeac356a8ae46278bfd456/dashboard/dashboard_preview.png")
+![Dashboard](https://github.com/mikealfaro24/marketing_analytics_pipeline/blob/f88fdb7b11be68157daeac356a8ae46278bfd456/dashboard/dashboard_preview.png)
 
 ---
 
