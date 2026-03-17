@@ -20,7 +20,7 @@ The goal of the dashboard is to make the underlying data easier to explore and i
 
 Looker Studio Dashboard:
 
-<a href="https://lookerstudio.google.com/reporting/YOUR_DASHBOARD_LINK](https://lookerstudio.google.com/embed/reporting/1510c6bc-9e9b-4bf8-a47f-8947d2abfe3b/page/VyIqF" target="_blank">
+<a href="https://lookerstudio.google.com/reporting/https://lookerstudio.google.com/embed/reporting/1510c6bc-9e9b-4bf8-a47f-8947d2abfe3b/page/VyIqF" target="_blank">
 Open the Interactive Dashboard
 </a>
 
