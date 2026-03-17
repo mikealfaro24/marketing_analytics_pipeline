@@ -1,4 +1,4 @@
-📚 Project Documentation
+📚 # Project Documentation
 
 This folder contains documentation related to the Marketing Analytics Pipeline & Performance Dashboard project.
 
