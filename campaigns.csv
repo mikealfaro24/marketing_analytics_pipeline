@@ -1,0 +1,833 @@
+campaign_id,campaign_name,source,medium,start_date,end_date,budget
+C00001, Weekend Flash 2025 – Decor ,INSTAGRAM,    cpc      ,2025-01-21,2025-03-05,4400.57
+C00002,Weekend Flash 2025 – Kitchen,facebook,organic,2025-07-28,2025-08-27,8857.93
+C00003,New Arrivals 2025 – Bedroom,google,organic,2024-07-22,2024-08-20,3535.45
+C00004,New Arrivals 2025 – Lighting,instagram,cpc,2024-09-24,2024-10-16,5196.87
+C00005,Summer  Sale  2025  –  Outdoor  ,direct,cpc,2025-10-27,2025-11-14,6193.07
+C00006,Cozy Home 2025 – Kitchen,google,email,2025-11-22,,5885.27
+C00007,Bundle & Save 2024 – Storage,google,email,2024-11-17,2024-12-16,6471.99
+C00008, summer sale 2025 – office,instagram,email,2024/13/01,,2895.0
+C00009,Clearance 2024 – Kitchen,email,social,2025-09-20,2025-10-16,3183.0
+C00010,Back to School 2025 – Decor,google,cpc,2024-09-12,2024-10-03,7336.25
+C00011,NEW ARRIVALS 2024 – STORAGE,google,cpc,2025-11-05,,6524.63
+C00012,clearance 2025 – office,facebook,email,2024-08-03,2024-08-19,3120.86
+C00013,Summer Sale 2025 – Office,google,social,2024-05-02,2024-06-13,5500.38
+C00014,New Arrivals 2024 – Bath,email,social,2024-04-21,,1461.21
+C00015,Summer Sale 2026 – Lighting,instagram,cpc,2025-07-15,,3135.72
+C00016,weekend flash 2024 – decor,google,organic,2025-12-13,2025-12-21,1200.96
+C00017,Cozy Home 2024 – Decor,tiktok,email,2024-11-30,2024-12-23,4735.65
+C00018,Back to School 2025 – Decor,google,social,2025-06-12,2025-07-18,10419.47
+C00019,Cozy Home 2024 – Kitchen,email,cpc,2024-01-31,2024-02-15,3062.95
+C00020,New Arrivals 2024 – Decor,direct,social,2025-11-10,2025-12-02,7235.02
+C00021,Clearance 2026 – Decor,email,social,2025-07-29,2025-09-03,2277.75
+C00022,Clearance 2024 – Decor,tiktok,organic,2024-07-15,,3600.96
+C00023, Clearance 2025 – Kitchen ,GOOGLE,email,2025-06-20,,4408.07
+C00024,Summer Sale 2024 – Storage,google,social,2025-06-18,2025-07-13,2264.32
+C00025,Bundle & Save 2026 – Bedroom,google,social,2024-09-29,2024-11-09,2544.4
+C00026,Summer Sale 2025 – Kitchen,direct,organic,2024-07-07,,12153.4
+C00027,Bundle & Save 2025 – Storage,GOOGLE,email,2024-09-03,2024-10-03,8728.97
+C00028,Summer Sale 2024 – Office,direct,cpc,2024-01-24,,13447.74
+C00029,Summer Sale 2025 – Kitchen,tiktok,cpc,2024-03-31,2024-04-14,6312.76
+C00030,Holiday Prep 2024 – Decor,google,CPC,2024-08-16,2024-08-30,6315.47
+C00031,Summer Sale 2025 – Decor,email,cpc,2024-04-06,2024-05-15,7639.84
+C00032,Weekend Flash 2024 – Kitchen,direct,social  ,2025-08-14,2025-09-26,8118.74
+C00033,Back to School 2024 – Lighting,direct,cpc,2024-08-09,,4768.31
+C00034,Back to School 2024 – Kitchen,facebook,referral,2024-05-01,2024-05-29,2214.38
+C00035,Bundle & Save 2025 – Decor,google,cpc,2024-07-30,,2545.54
+C00036,Cozy Home 2025 – Decor,tiktok,social,2025-09-01,,2777.74
+C00037,New Arrivals 2025 – Decor,tiktok,social,2025-01-25,2025-02-07,1634.03
+C00038,Weekend Flash 2024 – Storage,google,social,2024-09-20,,13495.19
+C00039,Cozy Home 2026 – Kitchen,google,cpc,2024-04-17,2024-05-14,1536.98
+C00040,Summer Sale 2024 – Kitchen,google,social,2024-04-22,2024-05-16,4486.38
+C00041,Cozy Home 2025 – Decor,tiktok,cpc,2025-05-15,2025-06-07,28849.81
+C00042,Cozy Home 2024 – Decor,google,social,2024-05-13,2024-06-23,1846.99
+C00043,Bundle & Save 2026 – Kitchen,google,organic,2025-01-19,,5530.84
+C00044,Holiday Prep 2025 – Storage,email,email,2025-06-27,,3373.2
+C00045,Clearance 2025 – Storage,facebook,social,2024-04-08,2024-04-21,3101.56
+C00046,New Arrivals 2024 – Bath,facebook,social,2024-07-14,2024-08-16,3854.79
+C00047,Weekend Flash 2026 – Bedroom,tiktok,social,2024-08-28,2024-10-02,5471.79
+C00048,Bundle & Save 2025 – Outdoor,email, social ,2024-08-29,,2469.58
+C00049,Weekend Flash 2025 – Bedroom,tiktok,cpc,2025-12-01,2025-12-29,6806.33
+C00050,Weekend Flash 2026 – Kitchen,google,referral,2024-05-04,2024-06-09,11589.56
+C00051,Weekend Flash 2026 – Office,google ,social,2024-02-06,2024-02-12,5006.07
+C00052,Clearance 2025 – Decor,email,email,2025-11-07,2025-12-13,12473.31
+C00053,Back to School 2024 – Lighting,google,cpc,2024-12-24,2025-01-23,7277.98
+C00054,WEEKEND FLASH 2024 – OUTDOOR,tiktok,email,2025-04-11,,2198.78
+C00055,COZY HOME 2024 – KITCHEN,direct,social,2024-07-17,,3686.72
+C00056, Weekend Flash 2026 – Decor   ,instagram,social,2024-04-12,2024-04-30,10201.32
+C00057,Weekend Flash 2024 – Lighting,tiktok,social,2024-03-31,2024-04-08,12369.36
+C00058,Weekend Flash 2025 – Kitchen,  tiktok ,cpc,2025-02-30,2026-01-03,2307.93
+C00059,Cozy Home 2025 – Storage,google,referral,2024-02-02,,2892.15
+C00060,bundle & save 2026 – kitchen,email,email,2025-10-08,2025-11-06,4724.17
+C00061,Summer Sale 2024 – Bedroom,instagram,cpc,2024-03-07,2024-03-10,5795.38
+C00062,Summer Sale 2024 – Kitchen,EMAIL,email,2025-10-31,,1425.77
+C00063,Bundle & Save 2025 – Kitchen,direct,email,2025-09-13,2025-10-15,10192.22
+C00064,Summer Sale 2024 – Bedroom,facebook,email,2025-02-06,2025-03-07,2239.08
+C00065,Summer Sale 2024 – Office,GOOGLE,email,2025-01-19,2025-03-04,1529.16
+C00066,Summer Sale 2024 – Decor,tiktok   ,email,2024-10-29,2024-11-08,2634.63
+C00067,Cozy Home 2025 – Lighting,instagram,social,2025-10-03,2025-10-30,5184.07
+C00068, HOLIDAY PREP 2025 – BEDROOM,instagram,email,2024-11-21,2025-01-02,5262.51
+C00069,Clearance 2025 – Bath,google,cpc,2025-11-27,2025-12-11,8547.28
+C00070,New Arrivals 2025 – Decor,facebook,social,2025-09-09,,942.85
+C00071,Cozy Home 2024 – Kitchen,facebook,cpc,2024-06-08,2024-06-15,5132.75
+C00072,Weekend Flash 2025 – Outdoor,google,email,2025-02-24,2025-03-13,1809.21
+C00073,Back to School 2025 – Bath,instagram,organic,2025-02-07,2025-02-15,3867.07
+C00074,Clearance 2024 – Office,tiktok,social,2025-11-07,,6177.94
+C00075,Summer Sale 2024 – Storage,google,cpc,2024-12-24,,7745.62
+C00076,Weekend Flash 2025 – Kitchen,tiktok,social,2024-05-07,2024-06-08,2431.74
+C00077,Summer Sale 2026 – Bath,direct,EMAIL,2024-04-22,2024-05-12,5572.26
+C00078,Weekend Flash 2025 – Bath,google,cpc,2024-08-16,2024-09-19,6424.21
+C00079,Summer Sale 2026 – Storage,email,organic,2025-01-20,,10250.16
+C00080,Summer Sale 2024 – Decor,google,EMAIL,2024-01-31,2024-02-21,12031.73
+C00081,Summer Sale 2026 – Bedroom,google,cpc,2024-05-21,2024-06-05,2759.65
+C00082,Back to School 2024 – Decor,google,organic,2025-09-19,2025-10-18,3549.43
+C00083,BACK TO SCHOOL 2024 – OFFICE,facebook,social,2025-10-09,2025-10-26,5268.63
+C00084,Clearance 2025 – Office,facebook,organic,2024-08-12,2024-09-08,1953.57
+C00085,New Arrivals 2025 – Decor,google,social,2026-01-03,,4170.53
+C00086,Summer Sale 2024 – Bath,google,organic,2025-11-05,2025-12-07,4589.75
+C00087,Back to School 2024 – Kitchen,instagram   ,social,2024-11-25,2024-12-27,10253.05
+C00088,New Arrivals 2026 – Office,instagram,referral,2025-12-22,2026-01-20,1899.81
+C00089,  Summer Sale 2025 – Office ,email,email,2025-07-28,,12428.92
+C00090,Holiday Prep 2025 – Bedroom,instagram,CPC,2024-01-04,,1641.31
+C00091,Weekend Flash 2026 – Decor,facebook,referral,2024-04-01,,5772.08
+C00092,Weekend Flash 2025 – Kitchen,instagram ,organic,2024-11-22,2024-12-29,5506.42
+C00093,New Arrivals 2024 – Kitchen,email,email,2025-04-27,2025-06-01,2287.88
+C00094,Weekend Flash 2024 – Storage,GOOGLE,social,2024-06-20,2024-07-29,4115.33
+C00095,Clearance 2024 – Outdoor,facebook,organic,2025-03-24,2025-04-24,1942.23
+C00096,BUNDLE & SAVE 2025 – BATH,google,social,2024-11-25,2024-12-14,3293.3
+C00097,Bundle & Save 2024 – Bedroom,facebook,email,2024-11-08,2024-12-14,16930.63
+C00098,Cozy Home 2024 – Bath,email,referral,2025-09-20,2025-10-22,1198.15
+C00099,New Arrivals 2025 – Storage,google,social,2024-03-01,2024-03-06,6069.8
+C00100,Summer Sale 2025 – Decor,facebook,  social   ,2025-10-14,2025-11-26,3974.71
+C00101,Clearance 2025 – Bedroom,google,cpc,2025-10-16,2025-11-26,2790.84
+C00102,Weekend Flash 2025 – Decor,google,cpc,2024-08-08,2024-08-24,5138.65
+C00103,Bundle  &  Save  2025  –  Bedroom,instagram,email,2025-04-11,2025-05-02,6232.67
+C00104,Holiday Prep 2025 – Outdoor,tiktok,email,2024-12-11,,6999.27
+C00105,Summer Sale 2026 – Outdoor,facebook,social,2024-05-16,,7835.64
+C00106,holiday prep 2024 – kitchen,google,cpc,2025-12-24,2026-01-15,3495.48
+C00107,Cozy Home 2024 – Kitchen,facebook,cpc,2025-10-21,2025-11-22,2127.28
+C00108,Cozy Home 2024 – Bath,google,cpc,2024-10-31,2024-12-09,3989.98
+C00109,clearance 2024 – decor,facebook,email,2024-12-09,2025-01-16,3761.88
+C00110,Cozy Home 2025 – Bedroom,instagram,cpc,2025-06-30,2025-07-16,6885.15
+C00111,summer sale 2025 – decor,google,cpc,2024-08-22,2024-08-30,4888.79
+C00112,Summer Sale 2024 – Bedroom,google,social,2024-12-15,2024-12-28,9241.02
+C00113,Back to School 2024 – Storage,tiktok,social,2024-12-02,2024-12-11,3101.99
+C00114,Bundle & Save 2026 – Bedroom,facebook,social,2025-10-30,,8912.71
+C00115,Bundle & Save 2025 – Bedroom   ,email,cpc,2025-12-24,2026-01-17,6754.81
+C00116,  Summer Sale 2024 – Kitchen   ,google,cpc,2024-10-31,2024-11-30,13059.51
+C00117,Weekend Flash 2025 – Bedroom,email,cpc,2025-06-17,,4637.63
+C00118,Weekend Flash 2025 – Kitchen,  direct    ,cpc,2025-11-10,,14161.65
+C00119,Back to School 2025 – Kitchen,tiktok,social,2024-01-13,2024-01-22,3620.12
+C00120,Summer Sale 2024 – Decor,email,organic,2025-04-02,2025-04-12,8078.74
+C00121,Cozy Home 2024 – Storage,email,social,2024-01-14,2024-02-08,5247.44
+C00122,Weekend Flash 2025 – Decor,direct,SOCIAL,2024-10-18,,4684.72
+C00123,Summer Sale 2025 – Office,facebook,cpc,2025-07-21,2025-08-30,3036.94
+C00124,Weekend Flash 2026 – Kitchen,google,cpc,2025-11-07,2025-12-16,5027.77
+C00125,Cozy Home 2025 – Decor,tiktok,social,2024-10-30,,9413.81
+C00126,Weekend Flash 2025 – Office,google,organic,2025-01-15,,2375.53
+C00127,Weekend Flash 2024 – Kitchen,INSTAGRAM,cpc,2024-06-03,2024-07-17,4125.34
+C00128,Weekend Flash 2024 – Storage,google,social,2025-02-23,,2452.63
+C00129,Back to School 2025 – Lighting,  google ,social,2025-03-03,2025-03-21,4063.46
+C00130,Summer Sale 2024 – Outdoor,direct,cpc,2024-10-16,,1466.14
+C00131,Weekend Flash 2024 – Storage, google,cpc,2024-12-17,,2672.01
+C00132,Cozy Home 2025 – Kitchen ,direct,email,2025-01-18,2025-02-18,1021.46
+C00133,Cozy Home 2025 – Bedroom,TIKTOK,organic,2024-12-30,2025-01-06,1848.68
+C00134,Holiday Prep 2024 – Kitchen,google    ,social,2025-12-24,2026-01-13,1220.73
+C00135,Back to School 2024 – Decor,google,CPC,2024-03-12,2024-03-19,2506.86
+C00136,Weekend Flash 2024 – Bedroom,facebook,email,2025-09-18,2025-09-22,12231.79
+C00137,Holiday Prep 2025 – Kitchen,google,cpc,2025-07-21,2025-07-31,2377.42
+C00138,New Arrivals 2024 – Decor,instagram,organic,2025-09-14,,10997.37
+C00139,Clearance 2024 – Bedroom,google,referral,2024-02-24,2024-04-04,2697.24
+C00140,Clearance 2025 – Decor,email      ,social,2024-09-22,,4040.86
+C00141,Holiday Prep 2026 – Decor,google,social,2024-04-06,2024-05-19,3783.81
+C00142,Summer Sale 2026 – Kitchen,google,social,2024-06-01,2024-06-07,4927.32
+C00143,Clearance 2026 – Bedroom,INSTAGRAM,email,2024-12-07,2024-12-25,5520.58
+C00144,holiday prep 2024 – bath,facebook,email,2024-12-10,2025-01-09,4018.47
+C00145,weekend flash 2026 – bedroom,facebook,SOCIAL,2025-04-02,2025-05-06,1547.94
+C00146,Cozy Home 2025 – Kitchen,google,cpc,2024-01-02,2024-02-07,4704.08
+C00147,Holiday Prep 2025 – Bedroom,facebook,email,2025-04-09,2025-05-09,5489.92
+C00148,Holiday Prep 2024 – Bath,email,organic,2025-03-16,2025-04-12,1505.7
+C00149,Bundle & Save 2026 – Office,email,  email ,2024-01-30,,7401.14
+C00150,Holiday Prep 2025 – Bath,facebook,social,2024-04-19,2024-05-22,4380.09
+C00151,Bundle & Save 2025 – Bath,facebook,social,2024-12-07,2024-12-28,4032.31
+C00152,Summer Sale 2025 – Outdoor,email,cpc,2025-10-14,,11043.68
+C00153,Weekend Flash 2024 – Storage,email,cpc,2024-08-28,,3321.94
+C00154,Summer Sale 2025 – Bedroom,tiktok,cpc,2025-12-07,2026-01-01,920.05
+C00155,Holiday Prep 2024 – Decor,email,cpc,2025-06-11,2025-07-24,4637.55
+C00156,Weekend Flash 2024 – Kitchen, tiktok ,social,2024-09-23,,7072.54
+C00157, Bundle & Save 2025 – Bath   ,facebook,social,2024-11-22,2024-12-29,2205.16
+C00158,Bundle & Save 2025 – Lighting,direct,email,2024-09-02,2024-10-16,4344.88
+C00159,Clearance 2024 – Decor,email,cpc,2025-07-16,2025-07-31,5493.43
+C00160,New Arrivals 2025 – Bedroom  ,tiktok,cpc,2024-07-08,2024-07-26,1900.03
+C00161,weekend flash 2024 – storage,instagram,cpc,2024-01-06,2024-01-13,1319.55
+C00162,Cozy Home 2025 – Kitchen,email,organic ,2024-10-13,2024-10-28,4772.51
+C00163,Summer Sale 2024 – Office,tiktok,email,2025-12-21,2026-01-12,1365.75
+C00164,Summer  Sale  2025  –  Decor    ,facebook,email,2024-03-23,2024-04-28,2542.14
+C00165,Holiday Prep 2024 – Decor,instagram,referral,2025-04-24,,9598.59
+C00166,New Arrivals 2024 – Decor,email,cpc,2024-08-25,2024-09-30,1557.64
+C00167,Bundle & Save 2024 – Bath,instagram,email,2024-05-03,2024-05-26,250000.0
+C00168,Bundle & Save 2024 – Kitchen,email,cpc,2024-04-15,2024-05-09,4032.64
+C00169,New Arrivals 2024 – Office,email,organic,2024-02-08,2024-02-25,3392.33
+C00170,bundle & save 2025 – storage,INSTAGRAM,cpc,2024-05-03,2024-05-23,9916.06
+C00171,Cozy Home 2025 – Office,instagram,social,2024-10-16,,793.36
+C00172,  Cozy Home 2025 – Bedroom,GOOGLE,cpc,2024-09-04,2024-09-14,8211.83
+C00173, Bundle & Save 2026 – Bath,google,email,2024-05-11,2024-06-01,4347.82
+C00174,Bundle & Save 2025 – Lighting,google,  cpc   ,2024-12-13,2025-01-12,3366.99
+C00175,Weekend Flash 2025 – Decor,tiktok,email,2024-12-07,03-45-2025,3119.7
+C00176,back to school 2024 – decor, facebook,email,2024-03-17,2024-04-23,2360.47
+C00177,New Arrivals 2025 – Bedroom,google,social,2025-04-14,2025-05-15,6266.67
+C00178,Summer Sale 2025 – Bedroom,  email,cpc,2025-09-09,,11757.48
+C00179,New Arrivals 2024 – Lighting,google,social,2025-10-16,2025-11-07,2103.64
+C00180,Cozy Home 2024 – Kitchen,facebook,cpc,2024-05-23,2024-05-29,2551.93
+C00181,Cozy Home 2024 – Bath,facebook,cpc,2024-04-08,2024-05-20,2857.34
+C00182,Bundle & Save 2024 – Lighting,google,cpc,2025-03-24,2025-04-15,1742.8
+C00183,Bundle & Save 2025 – Office,email,referral,2025-03-31,2025-04-21,5806.69
+C00184,Cozy Home 2025 – Lighting,instagram,cpc,2024-02-02,2024-03-09,1756.56
+C00185,Clearance 2024 – Lighting,facebook,social,2025-12-20,2026-01-11,5999.17
+C00186,Cozy Home 2025 – Kitchen, email,cpc,2024-04-04,2024-05-05,8361.65
+C00187,Back to School 2026 – Lighting   ,FACEBOOK,cpc    ,2024-10-27,2024-11-10,11634.79
+C00188,New Arrivals 2025 – Outdoor,google,cpc,2024-11-27,,3916.77
+C00189,Summer Sale 2025 – Kitchen,facebook,cpc,2025-07-27,2025-08-22,3886.67
+C00190,cozy home 2026 – storage,email,email,2025-12-30,2026-01-04,999999.0
+C00191,holiday prep 2024 – decor,google,  email,2024-10-15,,5190.52
+C00192,Summer Sale 2025 – Office,facebook,social,2024-11-28,2024-12-01,4794.92
+C00193,Cozy Home 2024 – Storage,email,cpc,2025-05-08,2025-05-17,3052.75
+C00194,Clearance 2026 – Decor,  direct  ,organic,2025-09-17,2025-09-27,2047.25
+C00195,Bundle & Save 2024 – Bath,instagram,social,2024-06-28,2024-07-24,708.75
+C00196,Back to School 2024 – Decor,facebook,cpc,2025-10-09,2025-11-14,2508.45
+C00197,Cozy Home 2025 – Bedroom,google,social,2025-01-07,2025-01-04,2362.9
+C00198,Back to School 2025 – Bath,google,social,2025-05-22,2025-07-04,1323.15
+C00199,Summer Sale 2024 – Bedroom,GOOGLE,referral,2025-01-18,2025-01-29,5368.91
+C00200,Holiday Prep 2025 – Kitchen,tiktok,social,2024-10-24,2024-11-11,5428.71
+C00201,Summer Sale 2026 – Decor,direct,cpc,2024-11-11,2024-11-22,7639.99
+C00202,Bundle & Save 2026 – Kitchen,tiktok,cpc,2025-06-02,,6669.54
+C00203,Bundle & Save 2025 – Kitchen,tiktok,social,2025-06-04,2025-06-23,3088.79
+C00204,Summer Sale 2024 – Lighting,GOOGLE,cpc,2024-05-25,2024-07-07,10198.97
+C00205,bundle & save 2025 – office,direct,organic,2024-09-23,2024-11-04,3956.01
+C00206, weekend flash 2025 – decor  ,tiktok,referral,2024-11-17,2024-12-19,540.81
+C00207,New Arrivals 2024 – Bath,facebook,cpc,2025-06-16,2025-06-22,5092.28
+C00208, New Arrivals 2025 – Lighting ,google,cpc,2025-09-24,2025-10-05,14818.36
+C00209,Cozy Home 2026 – Decor,  direct,cpc,2025-02-17,2025-02-22,3488.24
+C00210,Summer Sale 2025 – Bedroom,tiktok,social,2025-04-30,2025-05-29,5763.15
+C00211,Bundle & Save 2025 – Decor,direct,cpc,2024-03-23,2024-03-29,19158.3
+C00212,New Arrivals 2024 – Lighting,instagram,social,2024-11-06,,10730.34
+C00213,Back to School 2025 – Outdoor, google ,email,2024-05-14,,6780.79
+C00214,Holiday Prep 2024 – Bedroom,FACEBOOK,social,2024-01-24,2024-02-17,2957.23
+C00215,Holiday Prep 2025 – Decor,facebook,cpc,2025-06-23,2025-07-20,11015.89
+C00216,Back to School 2026 – Kitchen,facebook,organic,2024-07-26,2024-08-17,3203.88
+C00217,Bundle & Save 2025 – Outdoor,facebook,social,2024-05-21,2024-06-28,4287.76
+C00218,New Arrivals 2025 – Outdoor,direct,social,2025-03-16,,8038.42
+C00219,Clearance 2025 – Office,google,email,2024-11-08,2024-11-25,8844.32
+C00220,Back to School 2025 – Office,google,cpc,2024-04-06,2024-04-13,3061.09
+C00221,Cozy Home 2025 – Bedroom,tiktok,email,2025-12-03,,6934.93
+C00222,SUMMER SALE 2025 – BATH,google,cpc,2024-07-01,2024-07-16,3960.48
+C00223,Clearance 2024 – Office,facebook,email,2025-03-03,2025-04-06,6623.53
+C00224,New Arrivals 2024 – Storage,facebook   ,cpc,2024-06-19,,5705.03
+C00225,  Cozy  Home  2024  –  Office      ,google, cpc   ,2025-02-30,2024-12-12,7532.06
+C00226,New Arrivals 2025 – Bedroom,direct,social,2024-11-18,,3227.23
+C00227,Bundle & Save 2025 – Lighting,tiktok,ORGANIC,2025-01-05,2025-02-10,8563.08
+C00228,Summer Sale 2025 – Kitchen,facebook,social,2024-11-27,2024-12-23,7998.71
+C00229,Bundle & Save 2024 – Kitchen,instagram,organic,2025-07-20,2025-09-02,11631.34
+C00230,Bundle & Save 2024 – Bedroom,GOOGLE,social,2025-04-07,2025-05-19,1156.88
+C00231,Clearance 2024 – Bedroom,google,cpc,2025-04-07,2025-05-19,3115.58
+C00232,Bundle & Save 2024 – Outdoor,  google   ,email,2025-12-20,,3058.17
+C00233,Summer Sale 2025 – Outdoor,GOOGLE,cpc,2024-07-13,,1782.14
+C00234,Cozy Home 2025 – Decor,google,email,2025-03-23,2025-04-27,3987.59
+C00235,Bundle  &  Save  2024  –  Bedroom  ,email,referral,2025-10-10,2025-10-14,9253.3
+C00236,Clearance 2024 – Storage,facebook,email,2024-04-24,2024-05-12,7784.86
+C00237,Cozy Home 2025 – Bath,tiktok,email,2025-06-26,2025-07-27,5242.64
+C00238,NEW ARRIVALS 2026 – BATH,google,email,2024-03-04,2024-04-07,8891.78
+C00239,New Arrivals 2024 – Bedroom,FACEBOOK,cpc,2024-05-21,2024-06-26,3455.15
+C00240,Bundle & Save 2024 – Bedroom,google,cpc,03-45-2025,,5840.03
+C00241,Cozy Home 2024 – Storage,google,cpc,2025-11-24,2025-12-30,6858.87
+C00242,Cozy Home 2025 – Storage,tiktok,CPC,2025-04-14,,5231.97
+C00243,Bundle & Save 2025 – Bedroom,instagram,cpc,2024-03-30,2024-05-04,8596.93
+C00244,Weekend Flash 2025 – Decor,email,email,2024-02-04,2024-03-12,742.58
+C00245,summer sale 2025 – bedroom,facebook,social,2025-09-22,,2475.27
+C00246,Bundle & Save 2025 – Bedroom,email,social,2024-10-17,2024-11-22,5281.32
+C00247,Holiday Prep 2026 – Office,direct,cpc,2024-05-18,2024-06-04,14168.85
+C00248,Holiday Prep 2024 – Kitchen,tiktok,cpc,2025-04-14,2025-05-08,3779.99
+C00249, Holiday Prep 2024 – Storage ,instagram,cpc,2025-08-02,2025-08-14,5193.52
+C00250,BUNDLE  &  SAVE  2024  –  KITCHEN  ,instagram   ,SOCIAL,2025-03-21,2025-04-18,2571.76
+C00251,New Arrivals 2024 – Storage,facebook,referral,2024-12-30,2025-02-07,1338.4
+C00252,Bundle & Save 2025 – Office,google,social,2024-02-07,2024-02-27,21209.93
+C00253,Cozy Home 2026 – Kitchen,instagram,social,2025-07-26,2025-08-13,4749.42
+C00254,New Arrivals 2025 – Decor,google,organic,2025-06-30,2025-08-07,818.1
+C00255,Clearance 2026 – Kitchen,tiktok,organic,2025-08-19,2025-09-25,6151.21
+C00256,COZY HOME 2024 – KITCHEN,google,referral,2024-09-01,2024-09-07,4308.4
+C00257,bundle & save 2025 – decor,EMAIL,organic,2024-02-24,,3937.96
+C00258,Clearance 2025 – Office,facebook,social,2024-02-20,2024-03-01,2266.91
+C00259,Cozy Home 2024 – Kitchen,tiktok,cpc,2025-12-01,,2339.62
+C00260,Summer Sale 2024 – Office,google,email,2025-05-19,2025-06-18,2541.58
+C00261,Clearance 2025 – Bedroom,email,SOCIAL,2025-10-30,2025-11-08,4227.19
+C00262,Weekend Flash 2025 – Outdoor,google,social,2025-04-03,2025-04-08,1716.94
+C00263,Cozy Home 2025 – Decor,GOOGLE,  organic,2024-10-27,2024-11-18,4231.93
+C00264,New Arrivals 2025 – Decor,direct,social,2025-02-05,2025-03-20,1835.36
+C00265,  Weekend Flash 2025 – Kitchen ,facebook,ORGANIC,2025-01-23,2025-02-09,9405.21
+C00266,Holiday Prep 2024 – Decor,google,cpc,2024-12-28,,4001.67
+C00267,New  Arrivals  2025  –  Office,google,  social,2025-12-18,2025-12-27,2712.35
+C00268,Summer Sale 2024 – Outdoor,email,  social  ,2024-07-31,2024-09-03,1048.75
+C00269,bundle & save 2025 – decor,tiktok,referral,2025-08-16,2025-08-28,4873.96
+C00270,Cozy Home 2025 – Bedroom,direct   ,referral,2024-03-21,2024-04-15,3352.36
+C00271,Bundle & Save 2024 – Lighting,email,organic,2024-06-14,2024-06-29,7349.38
+C00272,Holiday Prep 2026 – Lighting,instagram,cpc,2024-01-28,,5378.86
+C00273,Clearance 2025 – Decor,facebook,email,2024-08-23,2024-09-28,2667.44
+C00274,summer sale 2025 – bedroom,facebook, cpc   ,2024-09-02,2024-09-09,1839.38
+C00275,Summer Sale 2024 – Bedroom,EMAIL,cpc,2025-07-12,2025-08-12,5611.59
+C00276,back to school 2025 – kitchen,google,social,2024-02-17,,6367.31
+C00277,New Arrivals 2025 – Kitchen,tiktok,cpc,2025-02-06,2025-02-16,6470.23
+C00278,Clearance 2024 – Kitchen,email,email,2024-05-24,2024-06-21,1910.02
+C00279,Clearance 2025 – Bedroom,FACEBOOK,cpc,2025-06-23,2025-06-27,10888.63
+C00280,Weekend Flash 2025 – Kitchen,email,social,2025-04-09,2025-05-14,1349.05
+C00281,Weekend Flash 2025 – Kitchen,email,CPC,2024-05-11,2024-05-15,2678.16
+C00282,NEW ARRIVALS 2024 – BATH,tiktok,organic,2024-11-16,2024-11-27,6136.78
+C00283,Summer Sale 2026 – Lighting,google,email,2025-06-09,2025-07-22,5457.91
+C00284,holiday  prep  2024  –  decor    ,tiktok,social,2025-11-20,2025-12-18,2614.34
+C00285,Clearance 2025 – Kitchen,google,email ,2024-05-14,2024-06-21,8868.79
+C00286,Clearance 2026 – Bedroom,instagram,social,2025-12-13,2025-12-23,1207.84
+C00287,New Arrivals 2025 – Lighting,google,organic,2025-04-27,2025-05-15,1784.06
+C00288,Cozy Home 2026 – Decor,google,email,2025-04-18,2025-06-01,3084.75
+C00289,Summer Sale 2024 – Outdoor,google,social,2025-07-08,2025-08-11,4777.92
+C00290,Cozy Home 2025 – Storage,tiktok,SOCIAL,2025-08-11,,3292.97
+C00291,Summer Sale 2025 – Storage,google,cpc,2025-12-01,,2406.5
+C00292,Summer Sale 2024 – Bedroom,FACEBOOK  ,social,2025-02-02,2025-02-26,3246.43
+C00293,SUMMER SALE 2024 – DECOR,email,cpc,2024-10-30,2024-11-02,12119.34
+C00294,New Arrivals 2025 – Bath,facebook,SOCIAL,2024-05-30,2024-06-26,3284.89
+C00295,Clearance 2025 – Bath, google ,email,2025-09-04,2025-10-16,4732.28
+C00296,Back to School 2024 – Office,instagram,social,2024-07-17,2024-08-28,18956.59
+C00297,Summer Sale 2025 – Decor,google,cpc,2024-03-08,,3767.11
+C00298, New Arrivals 2024 – Storage  ,facebook,referral,2025-12-26,,6381.5
+C00299,Summer Sale 2026 – Kitchen,google,social,2024-02-03,,6046.87
+C00300,    Holiday  Prep  2026  –  Decor  ,google,social,2024-03-07,2024-04-09,1436.16
+C00301,cozy home 2024 – storage,email,referral,2025-09-23,,2848.57
+C00302,Cozy Home 2024 – Kitchen,GOOGLE,email,2024-12-05,,2007.03
+C00303,Cozy Home 2024 – Bath,instagram,social,2024-05-13,,1532.41
+C00304,  Bundle & Save 2024 – Decor   ,tiktok,cpc,2025-06-28,2025-07-02,1707.37
+C00305,Summer Sale 2025 – Bedroom,google,email  ,2025-11-19,2025-12-01,2638.84
+C00306,Weekend Flash 2024 – Lighting,google,social,2025-03-21,2025-04-27,3565.25
+C00307,Back to School 2026 – Kitchen,google,cpc,,,1502.91
+C00308,cozy home 2024 – bedroom,google,cpc,2025-11-01,2025-11-19,4178.16
+C00309,Cozy Home 2024 – Bath,google,cpc,2024-08-02,2024-09-05,8231.18
+C00310,Holiday Prep 2025 – Decor,google,email,2024-02-19,2024-03-25,6251.54
+C00311,Bundle & Save 2025 – Decor,instagram,cpc,2024-02-20,2024-04-02,1134.9
+C00312,Holiday Prep 2024 – Office,email,CPC,2025-05-06,2025-06-10,2811.73
+C00313,Back to School 2024 – Storage,google,social,2025-09-18,,7614.93
+C00314,Cozy Home 2025 – Bath,tiktok,cpc,2024-02-01,2024-03-11,6910.37
+C00315,Cozy Home 2024 – Decor,google,social,2025-10-18,2025-10-23,18855.65
+C00316,Clearance 2025 – Bath,google,referral,2024-04-21,2024-04-24,5048.58
+C00317,Bundle & Save 2025 – Kitchen,google,email,2025-07-30,2025-08-14,3765.08
+C00318,Holiday Prep 2025 – Kitchen,instagram,cpc,2025-03-05,2025-03-22,7751.17
+C00319,Summer Sale 2024 – Decor,email,cpc,2025-03-15,2025-04-03,4707.95
+C00320,Cozy Home 2025 – Bath,instagram,SOCIAL,2025-11-19,2025-12-11,2078.15
+C00321,Holiday Prep 2025 – Decor,facebook,organic,2024-04-24,2024-06-04,28820.85
+C00322,Holiday Prep 2024 – Lighting,facebook,social,2024-03-05,,3262.48
+C00323,Cozy Home 2024 – Storage,instagram,CPC,2025-03-10,2025-03-14,3098.32
+C00324,Cozy Home 2024 – Outdoor,direct,email,2024-10-22,2024-11-30,3695.0
+C00325,cozy home 2025 – bath,google,cpc,2024-12-10,,4128.89
+C00326,New Arrivals 2024 – Bedroom,email,social,2024-09-28,,2277.03
+C00327,Clearance 2024 – Office,email,referral,2024-08-08,2024-09-01,2923.95
+C00328,Weekend  Flash  2025  –  Kitchen      ,instagram,referral,2025-08-11,,13972.2
+C00329,Clearance 2025 – Kitchen,facebook,email,2024-12-02,2025-01-09,4293.58
+C00330,BACK TO SCHOOL 2025 – OFFICE,tiktok,cpc,2025-09-30,,4472.24
+C00331,Cozy Home 2025 – Storage,facebook   ,cpc,2025-10-21,2025-11-07,12185.24
+C00332,Cozy Home 2025 – Kitchen,instagram,cpc,2024-07-21,,9514.41
+C00333,Weekend Flash 2024 – Decor,google,cpc,2024-08-02,2024-08-08,2389.32
+C00334,Summer Sale 2026 – Office,instagram,social,2025-06-19,2025-07-02,250000.0
+C00335,Cozy Home 2025 – Decor,email,organic,2025-03-30,2025-05-13,2323.09
+C00336,New Arrivals 2024 – Bedroom,google,cpc,2024-03-15,2024-04-19,1104.96
+C00337,Bundle & Save 2024 – Kitchen,facebook,cpc,2024-08-03,,471.23
+C00338,Cozy Home 2025 – Bedroom,FACEBOOK,social,2024-07-12,2024-07-21,8720.73
+C00339,Summer Sale 2025 – Decor,tiktok,social,2024-10-03,2024-10-29,1331.1
+C00340,Summer Sale 2025 – Kitchen,GOOGLE   ,email,2025-02-21,2025-02-24,24361.57
+C00341,Bundle & Save 2024 – Kitchen,google,organic,2024-02-18,2024-03-22,2968.2
+C00342,  New  Arrivals  2025  –  Office,facebook,referral,2024-06-21,,4831.9
+C00343,BUNDLE & SAVE 2025 – KITCHEN,tiktok,email,2025-11-06,2025-12-07,3288.54
+C00344,NEW ARRIVALS 2025 – BATH,facebook,cpc,2025-05-26,,4057.01
+C00345,New Arrivals 2025 – Kitchen,email,cpc,2024-08-12,2024-09-02,2139.92
+C00346,Cozy Home 2024 – Kitchen,google,email,2025-05-24,,27922.98
+C00347,Summer Sale 2024 – Office,email,email,2025-09-12,2025-09-30,3526.25
+C00348,Back to School 2024 – Lighting,google,cpc,2024-10-14,,6349.16
+C00349,Weekend Flash 2025 – Office,instagram,cpc,2025-02-12,2025-03-09,5048.23
+C00350,Cozy Home 2025 – Lighting,direct,social,2025-02-12,,5632.08
+C00351,Clearance 2024 – Kitchen,email,CPC,2025-09-17,2025-10-29,1862.24
+C00352,Cozy Home 2024 – Office,tiktok,email,2024-03-18,,2466.82
+C00353,Back to School 2025 – Office,instagram,social,2024-02-20,2024-02-18,6495.25
+C00354,Holiday Prep 2025 – Decor,facebook,email,2024-10-06,2024-11-19,6595.74
+C00355,Cozy  Home  2025  –  Decor    ,email  ,cpc,2024-12-20,2025-01-08,2563.31
+C00356,Back to School 2025 – Outdoor,email,email,2025-08-09,2025-09-07,6022.09
+C00357,Back to School 2024 – Kitchen,email,organic,2025-02-11,2025-03-14,2141.53
+C00358,Back to School 2025 – Bedroom,TIKTOK,social,2025-12-07,2026-01-03,2585.15
+C00359,  New Arrivals 2025 – Storage ,facebook,SOCIAL,2024-02-07,2024-03-13,8898.63
+C00360,NEW ARRIVALS 2025 – LIGHTING,google,cpc,2024-06-15,2024-07-02,1972.74
+C00361,New Arrivals 2025 – Office,google,social,2025-10-24,,4882.88
+C00362,Summer Sale 2025 – Lighting,email,social,2025-12-05,2026-01-03,7140.51
+C00363,  Clearance  2025  –  Kitchen      ,direct,organic,2024-06-04,2024-07-07,3034.45
+C00364,Holiday Prep 2025 – Lighting, email ,social,2024-07-22,2024-08-22,1108.02
+C00365,SUMMER SALE 2025 – BEDROOM,google,cpc,2024-11-04,2024-12-15,2340.55
+C00366,Summer Sale 2024 – Decor,email,organic,2025-02-07,2025-02-28,5061.52
+C00367,Bundle & Save 2025 – Storage,email,social,2024-04-20,,6860.29
+C00368,SUMMER SALE 2025 – LIGHTING,instagram,social,2024-08-30,2024-09-02,3714.41
+C00369,Clearance 2024 – Decor,google,social,2025-10-14,,7120.41
+C00370,Summer Sale 2024 – Bedroom,EMAIL,social,2024-10-02,2024-10-09,867.16
+C00371,Cozy Home 2024 – Outdoor,google,social,2025-04-18,2025-05-27,9437.13
+C00372,Back to School 2025 – Office,email,social,2024-01-23,2024-02-15,13289.6
+C00373,Back To School 2024 – Lighting,email,email,2024-01-31,,10995.0
+C00374,Clearance 2025 – Decor,TIKTOK,cpc,2024-04-11,2024-05-22,3464.56
+C00375,Bundle & Save 2024 – Kitchen,google,social,2025-09-29,2025-10-16,0.0
+C00376,New Arrivals 2025 – Office,email,cpc,2024-11-27,2025-01-03,2195.71
+C00377,Summer Sale 2026 – Bath,direct,social,2024-08-05,2024-09-12,6983.03
+C00378,Weekend Flash 2024 – Kitchen,email,cpc,2025-05-05,2025-06-10,1242.18
+C00379,Bundle & Save 2025 – Storage,instagram,cpc,2025-05-04,2025-05-12,7242.33
+C00380,Bundle & Save 2026 – Storage,tiktok,referral,2024-12-29,,13064.69
+C00381,Holiday Prep 2025 – Decor,EMAIL,cpc,2024-02-13,,19753.66
+C00382,Summer Sale 2025 – Decor,email,social,2024-07-31,2024-08-10,2049.51
+C00383,Cozy Home 2024 – Storage,instagram,email,2024-11-11,,5553.33
+C00384,Cozy Home 2025 – Storage,instagram,  email ,2025-02-26,2025-03-08,999999.0
+C00385,New Arrivals 2025 – Storage,facebook,organic,2024-06-02,2024-06-21,1054.01
+C00386,Summer Sale 2025 – Bedroom,facebook,social,2025-02-19,2025-03-04,2146.85
+C00387,Bundle & Save 2024 – Storage,EMAIL,social,2024-08-09,,2638.37
+C00388,  new arrivals 2025 – decor  ,facebook,SOCIAL,2025-07-30,2025-09-05,12837.98
+C00389,New Arrivals 2025 – Storage,google,social,2025-05-03,2025-05-17,10374.97
+C00390,Cozy Home 2024 – Outdoor,facebook,referral,2024-10-12,2024-10-31,4038.89
+C00391,Holiday Prep 2024 – Storage,instagram,cpc,2025-11-24,2025-12-13,6406.09
+C00392,Weekend Flash 2024 – Decor,instagram,email,2024-01-16,2024-01-12,12685.92
+C00393,summer sale 2026 – outdoor,GOOGLE,cpc,2025-10-17,2025-11-23,9903.2
+C00394,Cozy Home 2026 – Decor,google,social,2024-04-12,2024-05-06,5513.04
+C00395,New Arrivals 2024 – Bath,instagram,email,2025-01-11,2025-01-26,3042.14
+C00396,bundle & save 2024 – kitchen,EMAIL,cpc,2024-04-10,2024-05-06,5651.29
+C00397,Cozy Home 2025 – Decor,email,cpc,2024-07-18,2024-08-02,9537.67
+C00398,Weekend Flash 2025 – Bath,google,cpc,2025-09-12,2025-10-17,3402.14
+C00399,Cozy Home 2025 – Office,google,organic,2024-12-31,2025-01-20,10714.95
+C00400,Weekend Flash 2025 – Outdoor   ,EMAIL,organic,2025-08-09,2025-09-06,1847.46
+C00401,Summer Sale 2025 – Lighting,email,organic,2024-03-14,,542.91
+C00402,Summer Sale 2025 – Office,google,email,2025-03-18,2025-04-04,3644.66
+C00403,Clearance 2024 – Bedroom,google,cpc,2024-03-09,2024-04-07,9926.38
+C00404,Cozy Home 2025 – Outdoor,email,organic,2024-11-29,,14601.49
+C00405,SUMMER SALE 2026 – OFFICE,tiktok    ,social,2025-01-22,,3035.26
+C00406,Back to School 2026 – Office,facebook,cpc,2025-04-05,2025-04-26,2248.31
+C00407,cozy home 2025 – bath,google,cpc,2025-03-13,2025-03-16,6801.07
+C00408,Summer Sale 2025 – Kitchen,GOOGLE,social,2024-02-03,2024-02-16,6292.61
+C00409,Cozy Home 2024 – Outdoor,direct,referral   ,2024-11-15,2024-12-27,500000.0
+C00410,Cozy Home 2025 – Storage,google,social,2025-02-05,2025-02-27,7922.07
+C00411,Weekend Flash 2025 – Outdoor,google,social,2025-03-25,2025-03-29,2908.35
+C00412,New Arrivals 2024 – Decor,google,social,2025-10-13,2025-10-25,5267.64
+C00413,Weekend Flash 2024 – Bath,facebook,email,2024-10-29,2024-11-14,3729.48
+C00414,Holiday Prep 2025 – Outdoor,instagram,social,2025-12-21,2026-01-10,3360.13
+C00415,Cozy Home 2024 – Kitchen,google,social,2025-04-23,2025-05-19,2210.85
+C00416,Summer Sale 2025 – Outdoor,google,cpc,2025-11-08,2025-11-15,2581.09
+C00417,Cozy Home 2025 – Bath   ,google,cpc,2024-05-23,,6945.91
+C00418,Cozy Home 2024 – Decor,google,referral  ,2024-03-09,2024-03-28,4049.79
+C00419,Summer Sale 2025 – Lighting,email,referral,2024-03-20,2024-04-22,7994.2
+C00420,Cozy Home 2025 – Outdoor,facebook,organic,2024-03-06,,4729.01
+C00421,Holiday Prep 2025 – Bath,direct,cpc,2024-10-26,2024-12-06,2527.0
+C00422,Weekend Flash 2025 – Kitchen,email,social,2024-08-30,2024-09-08,10956.01
+C00423,Bundle & Save 2025 – Kitchen,direct,cpc,2025-10-04,2025-10-13,3172.5
+C00424,Summer Sale 2025 – Decor,email,social,2024-09-08,2024-10-10,1668.75
+C00425,Cozy Home 2025 – Decor,email,social,2025-06-26,2025-07-12,1897.83
+C00426,Cozy Home 2026 – Kitchen,GOOGLE,EMAIL,2025-12-28,,5310.74
+C00427,New Arrivals 2025 – Bath,direct,organic,2024-05-03,2024-06-14,5756.35
+C00428,Summer Sale 2025 – Storage  ,google,CPC,2024-04-22,2024-05-17,2529.5
+C00429,Holiday Prep 2025 – Kitchen,google,social,2024-01-09,2024-01-26,2718.09
+C00430,Clearance 2025 – Bedroom,email,cpc,2024-08-23,,8953.61
+C00431,clearance 2025 – storage,instagram,email,2025-03-25,,841.74
+C00432,Cozy Home 2025 – Kitchen,google,cpc,2025-10-05,2025-10-28,2427.47
+C00433,Summer Sale 2025 – Decor,tiktok,cpc,2024-02-14,,7048.03
+C00434,CLEARANCE 2025 – DECOR,google,    referral  ,2025-07-07,2025-07-14,8429.31
+C00435,Back to School 2025 – Bedroom,GOOGLE,email,2025-04-27,2025-05-24,12706.41
+C00436,summer sale 2024 – office,tiktok,EMAIL,2024-11-25,2024-12-27,5408.5
+C00437,Weekend Flash 2024 – Lighting,GOOGLE,cpc,2024-10-19,2024-11-07,691.41
+C00438,New Arrivals 2024 – Decor,google,cpc,2025-09-16,,1655.13
+C00439,  New  Arrivals  2024  –  Office  ,google,CPC,2025-09-23,2025-10-02,2497.06
+C00440,back to school 2024 – kitchen,email,social,2025-12-25,2026-01-06,4373.8
+C00441,New Arrivals 2026 – Office,facebook,email,2025-11-10,2025-12-11,20125.94
+C00442,Bundle & Save 2025 – Kitchen, instagram ,social,2025-11-06,,2942.6
+C00443,Summer Sale 2024 – Bedroom,email,social,2024-04-11,,3860.96
+C00444,New Arrivals 2024 – Decor,google,email,2024-06-28,2024-07-03,3184.71
+C00445,Holiday Prep 2025 – Storage,tiktok,organic    ,2024-11-25,,2910.95
+C00446,Back to School 2024 – Decor,google,cpc,2024-07-02,2024-08-01,2996.48
+C00447,Weekend Flash 2024 – Bedroom,facebook,social,2025-08-10,,961.69
+C00448, Holiday Prep 2024 – Decor ,google,social,2025-11-06,2025-12-04,2748.23
+C00449,Holiday Prep 2026 – Bedroom,instagram,email,2024-07-08,2024-07-13,1701.63
+C00450,Back to School 2026 – Bedroom,google ,cpc,2025-05-11,2025-05-29,3826.1
+C00451,New Arrivals 2024 – Outdoor,email,cpc,2025-06-06,2025-07-20,5651.7
+C00452,Cozy Home 2025 – Bath,google,cpc,2024-07-19,,2137.79
+C00453, summer sale 2026 – outdoor,facebook,organic,2025-01-31,2025-02-07,3225.84
+C00454,Weekend Flash 2025 – Office,google,email,2024-01-29,2024-02-16,4815.26
+C00455,Summer Sale 2024 – Lighting,tiktok,social,2024-01-25,2024-02-27,6901.47
+C00456,bundle & save 2024 – bedroom,email,cpc,2025-08-16,2025-08-24,2903.02
+C00457,    Cozy  Home  2024  –  Kitchen    ,TIKTOK,cpc,2025-07-24,2025-09-06,2135.05
+C00458,Summer Sale 2025 – Office,instagram,cpc,2024-02-18,,14448.51
+C00459,    Back  to  School  2025  –  Lighting,instagram,referral,2024-05-18,,1975.92
+C00460,Summer Sale 2024 – Storage,google,social,2025-04-04,2025-05-16,999999.0
+C00461,Summer Sale 2024 – Kitchen,instagram,organic,2024-12-27,,6796.55
+C00462,Cozy Home 2025 – Kitchen,instagram,EMAIL,2024-04-15,,4581.86
+C00463,Clearance 2024 – Kitchen,direct,email,2024-08-15,2024-09-25,2420.43
+C00464,Back to School 2024 – Lighting,google,cpc,2024-06-04,not_a_date,1830.88
+C00465,New Arrivals 2025 – Office,email,cpc,2025-09-18,,2310.81
+C00466,Summer Sale 2024 – Bedroom,google,EMAIL,2025-07-03,2025-07-07,13956.55
+C00467,Summer Sale 2025 – Storage,google,email,2025-07-12,2025-07-29,2336.64
+C00468,Summer Sale 2024 – Decor,google,cpc,2024-12-21,2025-01-11,5933.43
+C00469,New Arrivals 2025 – Bath,  email  ,organic,2025-12-02,2026-01-07,1751.32
+C00470,Clearance 2025 – Bath,tiktok,SOCIAL,2024-08-08,2024-08-16,7362.55
+C00471,Cozy  Home  2024  –  Decor, instagram,cpc,2025-12-14,,2444.42
+C00472,Clearance 2024 – Kitchen,INSTAGRAM,cpc,2024-01-11,,1550.86
+C00473,Cozy Home 2025 – Bedroom,direct,cpc,2024-12-16,2025-01-27,1617.69
+C00474,  Back to School 2025 – Office   ,instagram,social,2025-12-06,2025-12-26,8718.01
+C00475,Summer Sale 2024 – Outdoor,google,cpc,2025-01-27,2025-02-05,4141.63
+C00476,Back to School 2024 – Decor,facebook,cpc,2024-05-20,2024-06-18,9374.83
+C00477,Clearance 2026 – Decor,INSTAGRAM,social,2025-06-13,,0.0
+C00478,Holiday Prep 2024 – Bedroom,DIRECT,email,2024-01-20,,6191.36
+C00479,Summer Sale 2025 – Kitchen,google,organic,2025-08-15,,5896.15
+C00480,Back To School 2024 – Bedroom,instagram,cpc,2025-11-19,2025-11-26,4825.55
+C00481,Summer Sale 2025 – Decor,instagram,social,2024-03-03,2024-03-14,4582.89
+C00482,Bundle & Save 2024 – Decor,direct,cpc,2025-09-14,2025-10-16,2557.48
+C00483,new arrivals 2025 – bath,  tiktok   ,cpc,2024-01-20,2024-02-29,12435.83
+C00484,  Bundle & Save 2024 – Kitchen,facebook,email,2025-01-17,2025-02-23,8578.51
+C00485,Weekend Flash 2024 – Bath,google, cpc  ,2025-08-07,,7885.38
+C00486,Clearance  2025  –  Bath,facebook,email,2024-05-08,,10028.23
+C00487,New Arrivals 2025 – Decor,GOOGLE,CPC,2025-05-05,2025-06-01,3456.46
+C00488,Summer Sale 2025 – Decor,  google      ,organic,2025-05-25,2025-05-28,3855.88
+C00489,New Arrivals 2026 – Kitchen,facebook,referral,2024-04-29,2024-05-03,34959.95
+C00490,Holiday Prep 2024 – Decor,instagram,social,2024-07-29,2024-09-09,6331.74
+C00491,Cozy Home 2025 – Kitchen,direct,cpc,2025-11-25,,2517.45
+C00492,HOLIDAY  PREP  2024  –  KITCHEN  ,instagram,email,2025-09-17,2025-09-13,4908.55
+C00493,Bundle & Save 2025 – Storage,facebook,CPC,2025-09-05,2025-10-14,1075.02
+C00494,Back to School 2025 – Kitchen,google,cpc,2025-01-06,2025-01-04,1287.39
+C00495,Weekend Flash 2025 – Kitchen,tiktok,cpc,2024-07-20,2024-08-19,4815.74
+C00496,SUMMER SALE 2024 – DECOR,tiktok,ORGANIC,2024-11-10,2024-12-17,2289.29
+C00497,Clearance 2024 – Lighting,google,social,2025-12-28,,4518.47
+C00498,Summer Sale 2024 – Decor,google,cpc,2024-08-29,2024-10-08,4109.29
+C00499,Cozy Home 2025 – Outdoor,google,organic,2024-09-24,2024-09-28,2673.86
+C00500,summer sale 2026 – kitchen,instagram,organic,2025-05-23,2025-06-03,4713.1
+C00501,Weekend Flash 2025 – Decor,google,cpc,2025-10-25,2025-11-27,2834.35
+C00502,Back to School 2024 – Bedroom,direct,social  ,2025-07-06,2025-07-30,6055.07
+C00503,New Arrivals 2025 – Decor,tiktok,organic,2024-11-24,2024-12-04,7168.53
+C00504,New Arrivals 2025 – Office,email,email,2025-11-16,,12962.1
+C00505,Cozy Home 2025 – Decor,google,ORGANIC,2025-01-24,2025-02-21,4405.4
+C00506,Bundle & Save 2025 – Office,facebook,organic,2025-10-23,2025-11-12,9507.88
+C00507,Summer Sale 2025 – Outdoor,  email  ,social,2024-11-11,2024-12-18,5253.14
+C00508,Cozy Home 2025 – Lighting,direct,referral,2024-11-23,2025-01-03,4337.31
+C00509,Back to School 2025 – Kitchen,instagram,social,2025-03-24,2025-05-02,16116.23
+C00510,New Arrivals 2025 – Decor,google,cpc,2024-10-05,,7982.56
+C00511,Summer Sale 2025 – Kitchen,google,EMAIL,2025-09-07,,6666.55
+C00512,Cozy Home 2024 – Decor,google,organic,2025-06-22,2025-07-17,4321.14
+C00513,Cozy Home 2025 – Bath,facebook,referral,2024-04-28,2024-05-05,1067.22
+C00514,Bundle & Save 2024 – Decor,facebook,cpc,2024-01-30,,1609.43
+C00515,Holiday Prep 2025 – Outdoor,instagram,social,2025-08-10,2025-08-16,7499.13
+C00516,Holiday Prep 2025 – Storage,facebook,organic,2025-10-26,2025-11-07,4284.06
+C00517,Summer Sale 2025 – Bedroom,google,social,2024-08-13,2024-08-21,3907.85
+C00518,Weekend Flash 2025 – Kitchen,INSTAGRAM,social    ,2025-08-25,2025-09-21,6279.78
+C00519,Bundle & Save 2025 – Bath,instagram,cpc,2025-06-15,2025-07-06,1947.62
+C00520,Bundle & Save 2024 – Kitchen,direct,organic,2025-08-13,2025-09-16,5165.36
+C00521,New Arrivals 2024 – Bedroom,facebook,cpc,2025-10-10,,2418.35
+C00522,Summer Sale 2024 – Kitchen,google,cpc,2024-09-19,2024-10-19,1593.18
+C00523,Back to School 2025 – Storage,instagram,social,2024-09-16,,5596.38
+C00524,Holiday Prep 2024 – Outdoor,facebook,organic,2024-04-27,2024-05-16,5148.2
+C00525,BUNDLE & SAVE 2025 – OUTDOOR,google,cpc,2025-05-06,2025-06-09,2362.31
+C00526,New Arrivals 2024 – Decor,tiktok,cpc,2025-12-10,2025-12-24,3371.44
+C00527,Cozy Home 2025 – Kitchen,GOOGLE,cpc,2025-08-14,2025-09-14,1670.31
+C00528,New Arrivals 2025 – Bedroom,google,cpc,2025-07-09,2025-08-19,7299.8
+C00529,Cozy Home 2024 – Kitchen,facebook,organic,2024-08-15,2025-02-30,1065.76
+C00530,Bundle & Save 2025 – Storage,google,social,2024-02-12,2024-02-29,4251.02
+C00531,New Arrivals 2024 – Decor,email,cpc,2024-06-04,2024-06-08,2743.79
+C00532,Bundle & Save 2025 – Bath,google,CPC,2024-09-11,2024-09-16,2983.08
+C00533,New Arrivals 2024 – Decor,GOOGLE,cpc,2025-06-26,,1521.32
+C00534,  Back  to  School  2024  –  Bath    ,email,cpc,2025-08-02,2025-07-31,6320.66
+C00535,Cozy Home 2024 – Kitchen,facebook,organic,2025-07-06,2025-07-12,7355.7
+C00536,Weekend Flash 2024 – Kitchen,google,email,2024-06-28,2024-08-04,2168.09
+C00537,Bundle & Save 2026 – Office,instagram,organic,2024-11-18,2024-12-28,6257.65
+C00538,Bundle & Save 2025 – Lighting,email,social,2025-09-03,2025-10-04,3345.89
+C00539,Bundle & Save 2026 – Office,google,email,not_a_date,2025-09-24,2557.57
+C00540,Bundle & Save 2025 – Decor,google,referral,2025-07-10,2025-07-22,10945.38
+C00541,Weekend Flash 2024 – Decor,google,organic,2024-07-06,2024-08-11,15379.71
+C00542,Weekend Flash 2025 – Bedroom,google,cpc,2025-01-10,2025-02-18,3575.32
+C00543,New Arrivals 2025 – Office,facebook,CPC,2024-03-03,,5661.92
+C00544,Holiday Prep 2026 – Kitchen,google,cpc,2024-08-18,2024-08-31,6170.83
+C00545,Weekend Flash 2024 – Decor,email,social,2025-04-26,2025-06-07,1929.24
+C00546,WEEKEND FLASH 2025 – STORAGE,facebook,email,2025-03-30,2025-04-05,3789.82
+C00547,Holiday Prep 2025 – Kitchen,  direct  ,cpc,2024-09-18,2024-10-13,1913.27
+C00548,Holiday Prep 2024 – Kitchen,instagram,cpc,2025-05-19,2025-06-04,3420.4
+C00549,Summer Sale 2025 – Decor,email,email,2025-04-18,,3630.22
+C00550,Summer Sale 2024 – Bedroom,  google ,cpc,2024-11-01,2024-11-06,4898.08
+C00551,Back to School 2025 – Lighting,email,cpc,2024-04-25,2024-06-03,4721.69
+C00552,NEW ARRIVALS 2025 – BATH,google,email,2025-02-18,2025-03-26,3095.31
+C00553,Back to School 2024 – Decor,instagram,social,2025-09-10,2025-09-25,1324.45
+C00554,Holiday Prep 2025 – Outdoor,email,social,2024-07-17,,250000.0
+C00555,New Arrivals 2024 – Outdoor,instagram,cpc,2024-08-01,2024-08-18,3431.68
+C00556,Back To School 2026 – Decor,facebook,email,2025-05-16,2025-06-14,1152.04
+C00557,Cozy Home 2024 – Decor,facebook,social,2025-06-02,2025-06-23,7687.03
+C00558, Bundle & Save 2025 – Decor  ,google,SOCIAL,2025-03-19,,5400.54
+C00559,Back to School 2026 – Bath,google,social,2024-01-04,2024-01-17,1074.88
+C00560,New Arrivals 2024 – Bath,google,cpc,2025-03-03,2025-04-16,3195.27
+C00561,Summer Sale 2024 – Lighting,facebook,email,2025-01-19,2025-03-01,6671.11
+C00562,New Arrivals 2024 – Lighting,direct,organic,2025-09-02,2025-10-14,3885.73
+C00563,Summer Sale 2025 – Outdoor,email,organic,2025-11-29,,2247.93
+C00564,New Arrivals 2024 – Kitchen,google,email,2025-03-31,2025-05-04,3388.52
+C00565,New Arrivals 2025 – Outdoor,tiktok,social,2025-06-02,2025-07-04,3260.98
+C00566,New Arrivals 2024 – Storage,facebook,cpc,2025-08-25,2025-09-13,7317.09
+C00567,Back to School 2024 – Decor,tiktok,cpc,2025-01-16,2025-01-30,2339.42
+C00568,clearance 2025 – decor,google,organic,2025-11-09,2025-12-09,1528.56
+C00569,Clearance 2025 – Kitchen,google,cpc,2025-01-25,2025-02-09,27382.32
+C00570,Summer Sale 2024 – Kitchen,google,social,2025-04-22,,3153.1
+C00571,Bundle & Save 2024 – Bedroom,tiktok,cpc,2024-03-24,2024-04-13,1719.4
+C00572, Holiday Prep 2024 – Office   ,email,referral,2024-04-07,2024-05-19,12899.75
+C00573,New Arrivals 2024 – Bedroom,instagram,cpc,2025-11-15,2025-12-02,1644.03
+C00574,Clearance 2025 – Kitchen,  google,referral,2025-02-25,2025-03-06,2858.13
+C00575,cozy home 2024 – kitchen,google,cpc,2025-05-20,,3012.35
+C00576,Summer Sale 2025 – Decor,google,social,2024-12-28,,1920.92
+C00577,COZY HOME 2026 – DECOR,direct,referral,2025-02-02,,6308.3
+C00578,Cozy Home 2024 – Bedroom,google,social,2024-11-06,2024-12-09,1932.39
+C00579,Weekend Flash 2025 – Bath,google,social,2024-09-06,2024-10-02,840.63
+C00580,  Summer Sale 2025 – Kitchen   ,google,cpc,2024-05-15,,5045.03
+C00581,Summer Sale 2025 – Decor,google,social,2025-12-09,,1487.37
+C00582,Cozy Home 2024 – Bedroom,TIKTOK,email,2024-03-05,,8685.66
+C00583,    Back  to  School  2025  –  Outdoor      ,  tiktok  ,SOCIAL,2024-05-12,2024-05-29,4361.74
+C00584,Clearance 2024 – Kitchen,google ,organic,2025-01-26,2025-02-13,10052.14
+C00585,New Arrivals 2024 – Office,direct,social,2025-01-19,2025-02-01,3024.76
+C00586,Cozy Home 2025 – Bath,direct,email,2024-05-11,2024-06-05,2252.48
+C00587,Bundle & Save 2024 – Storage,direct,social,2024-11-07,,2005.52
+C00588,Weekend Flash 2025 – Kitchen,google,email,2025-08-11,2025-09-10,13234.14
+C00589,Bundle & Save 2024 – Bedroom,email,social,2024-07-25,2024-09-07,5060.33
+C00590,New Arrivals 2025 – Outdoor,google,SOCIAL,2024-05-08,2024-05-18,5475.0
+C00591,  Weekend Flash 2025 – Bedroom   ,direct,social,2024-09-28,2024-10-01,6132.31
+C00592,Summer Sale 2025 – Kitchen,tiktok,cpc,2025-03-29,2025-03-27,7530.02
+C00593,Back to School 2025 – Outdoor,tiktok,cpc,2024/13/01,2025-04-08,2238.11
+C00594,Cozy Home 2024 – Storage,instagram,email,2025-03-09,,3717.74
+C00595,cozy home 2025 – storage,facebook,email,2025-11-03,,5183.67
+C00596,BACK TO SCHOOL 2024 – STORAGE,facebook,referral,2025-02-07,2025-03-15,3575.1
+C00597,New Arrivals 2024 – Lighting,facebook,social,2025-02-15,2025-03-23,4505.99
+C00598,  Weekend Flash 2025 – Outdoor  ,facebook,  social    ,2024-09-09,2024-09-12,3936.52
+C00599,Bundle & Save 2025 – Office,facebook,social,2025-08-07,2025-08-11,4199.46
+C00600,New Arrivals 2024 – Bedroom,instagram,social,2024-02-26,2024-03-17,7376.63
+C00601,New Arrivals 2024 – Decor,TIKTOK,cpc,2025-05-14,2025-06-04,2591.82
+C00602, CLEARANCE 2025 – BEDROOM ,facebook,social,2024-01-24,2024-02-06,3450.53
+C00603,new arrivals 2025 – decor,direct,email,2024-08-09,2024-09-22,2873.71
+C00604,Weekend Flash 2025 – Decor,direct,email,2025-05-14,2025-06-23,8253.01
+C00605,Summer Sale 2025 – Outdoor,tiktok,email,2025-04-24,2025-05-01,0.0
+C00606,Clearance 2025 – Kitchen,email,organic,2024-02-21,2024-04-01,3450.37
+C00607,Summer Sale 2024 – Storage,google,cpc,2024-07-24,2024-07-29,740.24
+C00608,Back to School 2025 – Office,google,cpc,2025-08-15,,2565.87
+C00609,Cozy Home 2024 – Outdoor,facebook,cpc,2025-02-15,2025-03-13,2407.87
+C00610,Back to School 2026 – Kitchen,instagram,cpc,2024-08-13,2024-08-16,8160.37
+C00611,Summer Sale 2025 – Bedroom,email,cpc,2025-12-09,,3827.93
+C00612,Holiday Prep 2025 – Kitchen,INSTAGRAM,cpc,2025-02-13,2025-03-11,3632.66
+C00613,Bundle & Save 2025 – Decor,instagram,organic,2024-05-06,2024-05-14,4298.51
+C00614,WEEKEND FLASH 2025 – BEDROOM,google,cpc,2024-12-16,2025-01-13,2236.8
+C00615,Summer Sale 2025 – Bedroom,tiktok,cpc,2025-08-11,2025-09-18,1584.22
+C00616,Holiday Prep 2026 – Bedroom,tiktok,cpc,2024-01-23,2024-02-16,1964.55
+C00617,Clearance 2025 – Decor,instagram,email,2025-08-23,2025-09-16,2169.17
+C00618,Bundle & Save 2024 – Storage,google,SOCIAL,2026-01-03,2026-02-14,2321.63
+C00619,Weekend Flash 2024 – Kitchen,email,cpc,2025-09-21,,5266.04
+C00620,  Summer Sale 2024 – Storage  ,direct,social,2024-05-24,,6023.37
+C00621,Summer Sale 2025 – Decor,facebook,social,2024-03-02,2024-03-12,5028.13
+C00622,Weekend Flash 2025 – Decor,direct,cpc,2025-03-09,2025-04-11,4048.86
+C00623,Clearance 2026 – Bath,email,social,2024-01-09,2024-02-17,3665.96
+C00624,Bundle & Save 2025 – Kitchen,direct,email,2025-08-09,,13404.91
+C00625,New Arrivals 2025 – Storage   ,email,cpc,2025-08-23,2025-09-03,5394.63
+C00626,SUMMER SALE 2025 – OFFICE,direct,cpc,2025-11-21,2025-12-07,10779.82
+C00627,Bundle  &  Save  2024  –  Kitchen      ,google,social,2024-02-19,2024-03-17,4112.53
+C00628,Summer Sale 2024 – Decor,INSTAGRAM,referral,2025-08-19,2025-10-02,3948.66
+C00629,Clearance 2024 – Storage,google,email,2025-07-17,2025-08-13,5640.17
+C00630,Weekend Flash 2024 – Lighting,facebook,email,,2024-03-11,3106.9
+C00631,Back to School 2025 – Lighting,google,social,2024-06-27,2024-06-23,2880.38
+C00632,New Arrivals 2024 – Bedroom,facebook,cpc,2025-11-22,,5304.02
+C00633,Weekend Flash 2025 – Bedroom,google,social,2025-03-10,2025-04-14,2057.15
+C00634,New Arrivals 2026 – Storage,GOOGLE, cpc  ,2024-08-23,2024-09-29,2440.87
+C00635,Cozy  Home  2025  –  Office      ,email,cpc,2025-06-13,2025-07-08,9866.83
+C00636, Weekend Flash 2025 – Kitchen ,instagram,email,2024-11-18,2024-12-12,2950.24
+C00637, New Arrivals 2026 – Decor   ,facebook,organic,2024-01-15,2024-02-18,17399.01
+C00638, Summer Sale 2024 – Office,google,email,2024-04-30,,4779.84
+C00639,Summer Sale 2024 – Decor,google,social,2025-01-28,2025-02-10,2437.92
+C00640,NEW ARRIVALS 2024 – BEDROOM,google,cpc,2024-06-16,,8362.77
+C00641,Bundle & Save 2024 – Storage,email,social,2025-08-14,2025-09-20,8226.21
+C00642,Cozy Home 2024 – Bedroom,google,organic,2025-05-11,2025-06-21,965.82
+C00643, New Arrivals 2025 – Bath ,email,cpc ,2024-04-06,2024-05-14,829.96
+C00644,Back to School 2025 – Outdoor   ,google,cpc,2025-05-08,2025-06-04,1960.47
+C00645,Bundle & Save 2024 – Decor,google,referral,2025-05-04,,0.0
+C00646,Summer Sale 2026 – Outdoor,  google   ,organic,2025-11-09,2025-11-23,3655.33
+C00647,Summer Sale 2025 – Decor,email,cpc,2025-04-20,2025-04-17,1394.61
+C00648,Back to School 2024 – Office,tiktok,cpc,2024-08-28,2024-10-02,2478.95
+C00649,Cozy Home 2025 – Decor,TIKTOK,referral,2025-07-02,2025-07-09,4571.85
+C00650,New Arrivals 2025 – Decor,tiktok,  email   ,2024-11-23,2024-11-26,2907.1
+C00651,BACK TO SCHOOL 2024 – DECOR,facebook,social,2025-09-24,,3798.54
+C00652,Cozy Home 2025 – Decor,tiktok,cpc,2024-05-17,,10936.23
+C00653,Cozy Home 2024 – Decor,instagram,cpc,2025-06-23,2025-06-29,5003.97
+C00654,Weekend Flash 2025 – Storage,email,EMAIL,2025-12-11,2026-01-11,1992.76
+C00655,Clearance 2024 – Office,email,social,2025-01-03,,1262.99
+C00656,back to school 2024 – storage,facebook,cpc,2025-01-04,2025-01-14,7134.15
+C00657,Clearance 2024 – Bath,direct, cpc ,2024-01-22,2024-01-30,4319.59
+C00658,Summer Sale 2024 – Outdoor,email,cpc,2025-06-17,2025-06-26,3385.24
+C00659,Weekend Flash 2025 – Kitchen,direct,cpc,2025-07-02,2025-07-05,2689.12
+C00660,Summer Sale 2025 – Outdoor,google,SOCIAL,2024-07-20,2024-08-30,5866.12
+C00661,Bundle & Save 2024 – Kitchen,tiktok,cpc,2025-02-27,,14043.78
+C00662,Clearance 2025 – Kitchen,instagram,organic,2025-08-26,2025-09-29,5284.4
+C00663,Weekend Flash 2026 – Decor,email,organic,2025-12-22,2026-01-29,13169.2
+C00664,Weekend Flash 2024 – Bedroom,direct,social,2024-06-22,,2040.86
+C00665,New Arrivals 2026 – Outdoor,direct,email,2024-05-13,2024-05-31,1419.93
+C00666,Bundle & Save 2024 – Bedroom,direct,organic,2025-05-29,2025-06-19,1986.97
+C00667,New Arrivals 2024 – Bath,google,social,2024-08-11,,2382.53
+C00668,CLEARANCE 2026 – BEDROOM,email,organic,2025-01-07,2025-01-14,1921.05
+C00669,Cozy Home 2024 – Bedroom,facebook,cpc,2025-01-27,2025-02-10,4592.12
+C00670,Summer Sale 2025 – Bath,google,cpc,2025-02-06,2025-02-17,4002.17
+C00671,NEW ARRIVALS 2024 – KITCHEN,direct,organic,2024-05-21,,4868.95
+C00672,New Arrivals 2025 – Storage,google,cpc,2024-06-07,2024-07-07,9604.44
+C00673,Bundle & Save 2025 – Kitchen,google,email,2024-11-02,2024-12-09,13998.8
+C00674,Summer Sale 2024 – Decor,instagram,cpc,2025-11-04,2025-11-23,3246.4
+C00675,summer sale 2024 – bedroom,google,email,2025-10-05,2025-11-05,468.19
+C00676,Summer Sale 2025 – Kitchen,direct,cpc,2024-04-14,2024-05-01,999999.0
+C00677,Holiday Prep 2024 – Bath,facebook,ORGANIC,2025-07-22,2025-08-24,2146.06
+C00678,Cozy Home 2025 – Office ,facebook,email   ,2024-11-04,,9913.44
+C00679,Clearance 2026 – Office,facebook,cpc,2024-10-21,,999999.0
+C00680,summer sale 2024 – decor,facebook,email,2024-08-06,2024-08-28,7391.54
+C00681,Bundle & Save 2024 – Decor,facebook,social,2024-06-29,,4150.14
+C00682,Summer Sale 2025 – Decor,google,social,2025-07-22,2025-07-27,1811.43
+C00683,  Bundle & Save 2025 – Bedroom,facebook,cpc,2024-10-23,2024-12-03,12851.66
+C00684,Cozy Home 2025 – Storage,instagram,cpc,2024-09-12,not_a_date,4218.43
+C00685,Cozy Home 2025 – Bedroom,google,cpc,2024-06-14,2024-06-18,1952.11
+C00686,    Back  to  School  2024  –  Storage    ,google,social,2024-01-22,,445.61
+C00687,Holiday Prep 2024 – Decor,direct  ,CPC,2024-09-24,2024-11-04,3970.76
+C00688,Clearance 2025 – Lighting,facebook,cpc,2025-11-16,2025-12-11,2077.17
+C00689,Cozy Home 2025 – Office,facebook,cpc,2025-04-29,,2192.26
+C00690,Summer Sale 2025 – Kitchen,google,cpc,2025-07-20,2025-08-19,2474.36
+C00691,Holiday Prep 2025 – Storage,direct,organic,2024-04-29,2024-05-15,670.14
+C00692,weekend flash 2024 – decor,google,referral,2025-01-04,2025-01-20,7039.12
+C00693,Cozy Home 2025 – Decor,INSTAGRAM,social,2024-04-25,,2554.51
+C00694,New Arrivals 2025 – Storage,facebook,social,2024-12-02,2024-12-23,4940.16
+C00695,Clearance 2025 – Outdoor,direct,social,2024-01-22,2024-01-25,8564.55
+C00696,Clearance 2025 – Decor,instagram   ,cpc,2024-12-13,2025-01-12,6019.4
+C00697,New Arrivals 2024 – Bath  ,facebook,email,2025-07-29,2025-09-08,8748.14
+C00698,Cozy Home 2025 – Outdoor,google,organic,2025-10-12,2025-10-18,4484.38
+C00699,Summer Sale 2025 – Kitchen,    facebook      ,cpc,2025-05-22,2025-06-12,3212.89
+C00700,Cozy Home 2025 – Kitchen,google,email,2024-01-26,,838.41
+C00701,Bundle & Save 2024 – Kitchen,direct,social,2024-05-28,2024-06-28,3329.34
+C00702,Cozy Home 2025 – Decor,google, email   ,2025-04-08,2025-04-04,1700.74
+C00703,Cozy Home 2025 – Bedroom,email,social,2025-01-24,2025-02-06,14037.16
+C00704,Back to School 2025 – Decor,google,email,2024-08-24,,29739.49
+C00705,Summer Sale 2025 – Decor,facebook,organic,2024-04-03,2024-05-11,1409.97
+C00706,Weekend Flash 2026 – Bath,GOOGLE,cpc,2024-12-13,,3408.69
+C00707,Weekend Flash 2024 – Decor,facebook,organic,2024-11-20,,3153.07
+C00708,Clearance 2024 – Bedroom,tiktok,email,2025-12-28,,4057.56
+C00709,Summer Sale 2024 – Outdoor,google,social,2025-02-24,2025-02-28,8945.32
+C00710,Cozy Home 2025 – Storage,email,organic,2024-10-11,,2986.15
+C00711,New Arrivals 2024 – Kitchen,tiktok,social,2024-05-19,2024-06-05,1587.83
+C00712,Clearance 2024 – Office,instagram,social,2025-05-01,2025-06-06,3975.06
+C00713,Back to School 2024 – Kitchen,instagram,social,2025-01-22,,1533.53
+C00714,Summer Sale 2026 – Decor,EMAIL,email,2024-05-18,2024-05-23,500000.0
+C00715,Back to School 2024 – Outdoor,instagram,cpc,2025-10-07,2025-11-20,2279.88
+C00716,Cozy Home 2024 – Storage,facebook,email,2024-06-12,2024-06-21,4588.13
+C00717,Clearance 2024 – Bedroom,google,social,2024-01-15,2024-01-31,6256.83
+C00718,Back to School 2024 – Outdoor,google,organic,2025-11-06,2025-12-03,3414.29
+C00719,New Arrivals 2025 – Bedroom,tiktok,organic,2025-07-18,2025-07-30,6104.0
+C00720,Summer Sale 2024 – Bedroom,email,cpc,2024-05-28,,18168.19
+C00721,Summer Sale 2025 – Storage,facebook,social   ,2025-11-06,2025-11-22,2948.3
+C00722,New Arrivals 2025 – Bath,google,email,2024-06-13,,4867.82
+C00723,Summer Sale 2025 – Kitchen,instagram,email,2025-09-10,,3567.78
+C00724,Cozy Home 2024 – Decor,instagram,cpc,2025-05-30,2025-06-04,3777.42
+C00725,CLEARANCE 2025 – DECOR,tiktok,organic,2024-08-02,,4227.7
+C00726,Back to School 2025 – Outdoor   ,facebook,cpc,2025-06-20,2025-07-17,2809.9
+C00727,Summer Sale 2024 – Storage,email,social,2024-06-22,2024-07-03,4322.62
+C00728,Cozy Home 2025 – Storage,google ,cpc  ,2024-05-08,2024-05-04,1602.73
+C00729,Holiday Prep 2025 – Bedroom,google,referral,2024-10-19,,8430.63
+C00730,New Arrivals 2024 – Decor,instagram, CPC,2024-02-11,2024-03-08,4816.24
+C00731,Back To School 2024 – Kitchen,google,cpc,2024-11-14,,2368.86
+C00732,Clearance 2024 – Outdoor,google,social,2024-04-16,2024-05-04,8874.87
+C00733,New Arrivals 2026 – Decor,google ,social,2024-08-04,,4255.88
+C00734,new arrivals 2024 – office,email,social,2024-09-21,2024-09-26,2859.28
+C00735,New Arrivals 2024 – Office,direct,cpc,2025-08-23,2025-09-12,3552.22
+C00736,NEW ARRIVALS 2026 – BATH,email,email,2025-10-24,2025-11-23,5962.01
+C00737,Bundle & Save 2024 – Decor,google,social,2025-06-30,2025-08-06,1469.76
+C00738,Summer Sale 2025 – Bedroom,tiktok,cpc,2024-11-06,2024-12-04,3842.66
+C00739,Holiday Prep 2026 – Kitchen,email,email,2025-11-28,,4166.45
+C00740,back to school 2025 – bedroom,email,SOCIAL,2024-02-09,,4742.18
+C00741,New Arrivals 2026 – Bedroom,direct,CPC,2025-11-14,,1652.98
+C00742,New Arrivals 2025 – Storage,google,cpc,2025-09-21,2025-10-03,2814.93
+C00743,Back to School 2024 – Decor,direct, cpc ,2024-08-24,2024-10-01,2985.7
+C00744,Clearance 2024 – Storage,EMAIL,cpc,2025-12-22,2026-01-13,7146.8
+C00745,Summer Sale 2024 – Kitchen,  EMAIL ,social,not_a_date,2024-03-13,1266.51
+C00746,holiday prep 2024 – kitchen,email,email,2025-01-03,,10516.19
+C00747,Summer Sale 2025 – Bath,email,organic,2024-09-26,,5396.15
+C00748,Summer Sale 2024 – Kitchen,GOOGLE,social,2025-12-15,2026-01-09,3062.96
+C00749,New Arrivals 2025 – Kitchen,google,organic,2024-08-30,2024-09-02,3272.48
+C00750,Bundle & Save 2025 – Decor,INSTAGRAM,cpc,2024-05-01,2024-06-01,3888.62
+C00751,Holiday Prep 2024 – Decor,instagram,social,2025-12-30,2026-01-12,7284.44
+C00752,Summer Sale 2024 – Decor,google,cpc,2024-09-02,2024-10-14,10029.76
+C00753,Summer Sale 2024 – Decor,DIRECT,organic,2024-08-23,2024-09-11,1574.75
+C00754,new arrivals 2024 – kitchen,google,cpc,2024-09-10,2024-10-06,1967.54
+C00755,Summer Sale 2025 – Decor,GOOGLE    ,cpc,2024-09-19,2024-09-30,7502.71
+C00756,Bundle & Save 2024 – Storage,facebook,email,2025-03-12,2025-04-10,7021.62
+C00757,Summer Sale 2025 – Decor,google,CPC,2024-03-21,2024-04-05,4536.31
+C00758,New Arrivals 2025 – Outdoor,google,cpc,2025-05-28,,10521.99
+C00759,Summer Sale 2025 – Bedroom,instagram,organic,2025-08-27,2025-10-10,2758.19
+C00760,New Arrivals 2025 – Bedroom,email,cpc,2025-03-18,2025-04-26,539.84
+C00761,summer sale 2025 – bath,tiktok,social,2025-10-12,,2362.73
+C00762,Bundle & Save 2025 – Storage,FACEBOOK,email   ,2025-11-05,2025-12-02,6393.49
+C00763,Summer Sale 2026 – Office,    google,referral,2024-05-12,2024-05-30,1427.74
+C00764,  Summer Sale 2025 – Office   ,google,  social ,2025-06-27,2025-07-13,8196.2
+C00765,Bundle & Save 2025 – Outdoor,email,referral,2025-04-18,2025-05-01,3525.85
+C00766,Summer Sale 2025 – Decor,instagram,cpc,2024-04-30,2024-05-03,3857.52
+C00767,Holiday Prep 2024 – Bedroom,GOOGLE,social,2026-01-01,2026-01-14,6815.33
+C00768,back to school 2024 – bath,google,organic,2024-01-27,2024/13/01,10816.47
+C00769,Summer Sale 2025 – Outdoor,google,cpc,2025-01-26,,2878.91
+C00770,Holiday Prep 2024 – Decor,instagram,email,2024-04-17,,1997.46
+C00771,summer sale 2025 – bath,instagram,email,2024-07-16,2024-08-22,5861.73
+C00772,COZY HOME 2025 – KITCHEN,email,cpc,2024-10-03,,1008.18
+C00773,Weekend Flash 2024 – Outdoor,tiktok,email,2024-02-21,,3318.55
+C00774,Back to School 2026 – Storage,email,social,2025-04-23,2025-05-11,2596.04
+C00775,Back to School 2024 – Kitchen,tiktok,organic      ,2024-11-10,2024-12-22,2467.27
+C00776,Weekend Flash 2024 – Storage,google,referral,2025-08-28,2025-09-01,8418.39
+C00777,Back to School 2024 – Outdoor,instagram,cpc,2025-03-06,2025-04-12,6971.84
+C00778,Weekend Flash 2024 – Office,google,email,2025-05-01,2025-05-07,7573.15
+C00779,New Arrivals 2025 – Lighting,facebook,referral,2024-01-05,2024-01-27,6757.78
+C00780,New Arrivals 2024 – Bedroom,instagram,cpc,2025-01-14,2025-02-14,1105.31
+C00781,New Arrivals 2025 – Kitchen,instagram,cpc,2024-04-27,2024-05-06,2005.47
+C00782,Bundle & Save 2025 – Bedroom ,google,cpc,2025-05-30,,13898.81
+C00783,SUMMER SALE 2024 – LIGHTING,facebook,social,2025-06-18,,11195.74
+C00784,Weekend Flash 2026 – Kitchen,email,referral,2024-08-05,2024-09-11,8036.9
+C00785,Back to School 2025 – Bath,email,social,2024-09-27,2024-10-30,6628.6
+C00786,Bundle & Save 2026 – Bedroom,google,cpc,2024-10-03,2024-11-09,6845.36
+C00787,Weekend Flash 2024 – Lighting,TIKTOK,cpc,2025-06-24,,2234.25
+C00788,Summer  Sale  2025  –  Decor    ,google,organic,2025-01-29,2025-02-26,500000.0
+C00789,Back to School 2024 – Bedroom,instagram,cpc,2024-01-31,,7515.04
+C00790,Summer Sale 2025 – Storage,google,social,2024-03-19,2024-04-19,3803.67
+C00791,Summer Sale 2024 – Lighting,instagram,cpc,2024-03-12,,2709.82
+C00792,New Arrivals 2026 – Decor,google,cpc,2024-10-17,2024-11-03,1037.74
+C00793,Bundle & Save 2025 – Storage,google,social,2025-04-07,2025-05-11,3207.52
+C00794,Back to School 2024 – Bedroom,tiktok,cpc,2025-11-03,,6803.15
+C00795,Summer Sale 2024 – Bedroom,facebook,CPC,2025-12-09,2025-12-31,3223.95
+C00796,New Arrivals 2025 – Office,google,social,2025-04-05,2025-04-11,11722.58
+C00797,Summer Sale 2024 – Lighting,GOOGLE,cpc,2024-12-10,2025-01-07,1486.5
+C00798,Cozy Home 2025 – Decor,google,organic,2025-02-23,,5465.52
+C00799,Cozy Home 2025 – Lighting,facebook,organic,2025-08-21,2025-09-14,6714.64
+C00800,BUNDLE & SAVE 2024 – OFFICE,EMAIL,social,2025-06-30,2025-07-03,1882.46
+C00801,Clearance 2025 – Decor,EMAIL,cpc,2024-02-10,2024-03-24,1273.76
+C00802,Back to School 2024 – Decor,google,cpc,2025-03-29,2025-04-08,3551.6
+C00803,Bundle & Save 2024 – Bedroom,email ,cpc,2024-07-09,2024-08-20,19954.6
+C00804,Summer Sale 2026 – Kitchen,google,email,2025-09-30,2025-09-25,3814.87
+C00805,Summer Sale 2025 – Kitchen,tiktok,CPC,2024-05-22,2024-05-25,9074.42
+C00806,Back to School 2025 – Storage,instagram,social,2024-04-04,,3499.0
+C00807,Weekend Flash 2026 – Office,email,cpc,2025-02-26,2025-03-21,9820.36
+C00808,New Arrivals 2025 – Office,google,social,2024-06-26,2024-07-25,2033.14
+C00809,New Arrivals 2025 – Decor,email,CPC,2024-07-31,2024-09-09,2879.02
+C00810,Clearance 2024 – Decor,email,social,2024-08-04,2024-09-05,7485.2
+C00811,Weekend Flash 2025 – Bedroom,email,cpc,2024-04-20,2024-05-11,7024.16
+C00812,Back to School 2025 – Kitchen,google,EMAIL,2024-04-30,2024-05-28,3480.04
+C00813,Back to School 2025 – Office,google,cpc,2024-06-24,2024-07-14,2349.64
+C00814,New Arrivals 2024 – Kitchen   ,email,cpc,2024-03-20,2024-04-21,2809.0
+C00815,Clearance 2025 – Bath,instagram,SOCIAL   ,2024-07-15,2024-08-13,10027.47
+C00816,Back to School 2025 – Kitchen,google,organic,2024-04-06,,7104.38
+C00817,New Arrivals 2024 – Bedroom,tiktok,email,2024-11-23,2024-12-02,1499.72
+C00818,new arrivals 2025 – kitchen,google,cpc,2024-04-07,2024-05-21,3903.33
+C00819, Bundle & Save 2025 – Outdoor  , email  ,organic,2025-05-26,2025-06-26,1722.36
+C00820,Clearance 2024 – Storage,EMAIL,email,2024-09-22,,12954.47
+C00425,Cozy Home 2025 – Decor,email,social,2025-06-26,2025-07-12,1897.83
+C00013,Summer Sale 2025 – Office,google,social,2024-05-02,2024-06-13,5500.38
+C00303,Cozy Home 2024 – Bath,instagram,social,2024-05-13,,1532.41
+C00698,Cozy Home 2025 – Outdoor,google,organic,2025-10-12,2025-10-18,4484.38
+C00702,Cozy Home 2025 – Decor,google, email   ,2025-04-08,2025-04-04,1700.74
+C00682,Summer Sale 2025 – Decor,google,social,2025-07-22,2025-07-27,1811.43
+C00142,Summer Sale 2026 – Kitchen,google,social,2024-06-01,2024-06-07,4927.32
+C00477,Clearance 2026 – Decor,INSTAGRAM,social,2025-06-13,,0.0
+C00703,Cozy Home 2025 – Bedroom,email,social,2025-01-24,2025-02-06,14037.16
+C00609,Cozy Home 2024 – Outdoor,facebook,cpc,2025-02-15,2025-03-13,2407.87
+C00680,summer sale 2024 – decor,facebook,email,2024-08-06,2024-08-28,7391.54
+C00345,New Arrivals 2025 – Kitchen,email,cpc,2024-08-12,2024-09-02,2139.92
