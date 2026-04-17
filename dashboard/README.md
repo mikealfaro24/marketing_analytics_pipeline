@@ -20,7 +20,7 @@ The goal of the dashboard is to make the underlying data easier to explore and i
 
 Looker Studio Dashboard:
 
-*https://lookerstudio.google.com/embed/reporting/1510c6bc-9e9b-4bf8-a47f-8947d2abfe3b/page/VyIqF*
+*https://datastudio.google.com/reporting/1510c6bc-9e9b-4bf8-a47f-8947d2abfe3b*
 
 ---
 
